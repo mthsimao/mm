@@ -70,7 +70,7 @@ const Content = ({ isOpen }) => {
             </div>
           </div>
 
-          <div className="text-white text-center max-w-2xl py-8">
+          <div className="text-white text-center max-w-2xl py-8 px-4">
             <p>
               Estou acreditando que me permitir amar você seja uma das coisas
               mais bonitas que eu esteja fazendo por mim, nunca havia me sentido
