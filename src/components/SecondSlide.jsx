@@ -3,17 +3,17 @@ import "swiper/css";
 import "swiper/css/navigation";
 import { Autoplay, Navigation } from "swiper/modules";
 
-import slide1 from "../assets/slide1.jpeg";
-import slide2 from "../assets/slide2.jpeg";
-import slide3 from "../assets/slide3.jpeg";
-import slide4 from "../assets/slide4.jpeg";
-import slide5 from "../assets/slide5.jpeg";
-import slide6 from "../assets/slide6.jpg";
-import slide7 from "../assets/slide7.jpg";
-import slide8 from "../assets/slide8.jpg";
+import slide9 from "../assets/slide9.jpg";
+import slide10 from "../assets/slide10.jpeg";
+import slide12 from "../assets/slide12.jpeg";
+import slide13 from "../assets/slide13.jpg";
+import slide14 from "../assets/slide14.jpeg";
+import slide16 from "../assets/slide16.jpg";
+import slide17 from "../assets/slide17.jpeg";
+import slide18 from "../assets/slide18.jpeg";
 
 export default function Slider() {
- const slides = [slide1, slide2, slide3, slide4, slide5, slide6, slide7, slide8];
+ const slides = [slide9, slide10, slide12, slide13, slide14, slide16, slide17, slide18];
 
   return (
     <div className="w-full max-w-[360px] md:max-w-2xl mx-auto">
