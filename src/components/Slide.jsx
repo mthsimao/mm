@@ -10,7 +10,7 @@ import slide4 from "../assets/slide4.jpeg";
 import slide5 from "../assets/slide5.jpeg";
 import slide6 from "../assets/slide6.jpg";
 import slide7 from "../assets/slide7.jpg";
-import slide8 from "../assets/slide8.jpg";
+import slide8 from "../assets/slide8.jpeg";
 
 export default function Slider() {
  const slides = [slide1, slide2, slide3, slide4, slide5, slide6, slide7, slide8];

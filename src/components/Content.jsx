@@ -20,7 +20,9 @@ const Content = ({ isOpen }) => {
           </div>
           <div className="textinho min-w-[320px] max-w-[670px] mt-6 rounded-2xl p-6">
             <div className="text-white ">
-              <p className="text-center text-red-500 font-medium">{dataFormatada}</p>
+              <p className="text-center text-red-500 font-medium">
+                {dataFormatada}
+              </p>
               <br />
               <br />
               <strong>Melzinha</strong>, desde o dia em que eu te dei o primeiro
@@ -35,8 +37,8 @@ const Content = ({ isOpen }) => {
               <br />
               Tivemos uma conexão extraordinária e completamente tranquila,
               leve, e por mais que era o nosso primeiro momento juntos, depois
-              daquele dia, eu soube que seria você quem eu iria escolher para estar comigo.
-              Não tenho dúvidas de que eu te quero.
+              daquele dia, eu soube que seria você quem eu iria escolher para
+              estar comigo. Não tenho dúvidas de que eu te quero.
               <br />
               <br />
               Como diz na música "Pras Damas": <br />
@@ -62,7 +64,7 @@ const Content = ({ isOpen }) => {
 
           <div>
             <h2 className="text-red-500 text-2xl text-center py-4">
-              Eu te amo, bê 
+              Eu te amo, bê
             </h2>
 
             <div>
@@ -88,6 +90,16 @@ const Content = ({ isOpen }) => {
               <br />
               <br />
               Obrigado por ser você 🤍
+            </p>
+          </div>
+
+          <div className="text-white text-center max-w-2xl py-8 px-4">
+            <p>
+              Espero que você tenha gostado do presentinho!
+              <br />
+              <br />
+              Pode ter certeza que terá mais presentes como esses e você não faz
+              a menor ideia de como e quando vai ser! Amo você!
             </p>
           </div>
         </div>
